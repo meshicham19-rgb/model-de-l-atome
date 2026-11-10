@@ -1,0 +1,14 @@
+Modèle de l'atome – TCS – Pr Hicham MESBAH
+==========================================
+
+1. Ouvrir Android Studio > File > Open > choisir le dossier CoursAtomeTCS_Android.
+2. Laisser Gradle se synchroniser (connexion Internet nécessaire la première fois).
+   Si Android Studio propose d'ajouter le "Gradle wrapper", accepter.
+3. Brancher le téléphone (débogage USB activé) ou lancer un émulateur, puis Run ▶.
+4. APK à partager aux élèves :
+   Build > Build Bundle(s) / APK(s) > Build APK(s)
+   → app/build/outputs/apk/debug/app-debug.apk
+
+Le cours se trouve dans app/src/main/assets/index.html.
+Il fonctionne hors ligne (sans Internet, la police de secours du téléphone est utilisée).
+Les réponses de l'élève restent enregistrées dans l'application.
